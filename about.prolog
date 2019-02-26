@@ -5,13 +5,13 @@
                   abstract/1]).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Put your blog's information here %%
+%% homotopical %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 title('Put Your Title & whatever Here, in about.prolog').
-admin('Put Your Name Here').
-email('lucca.fraser@gmail.com').
+admin('Giancarlo').
+email('gsmicro.nics?@gmail.com').
 domain('localhost:8000').
-abstract('Put your abstract in about.prolog.').
-repo('https://github.com/oblivia-simplex/feral_machines').
+abstract('a ROPER baby out in the wild').
+repo('https://github.com/inconstantloop/homotopical').
 
